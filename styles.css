@@ -21,7 +21,7 @@ body {
 	background-image: url("penguin_pngs/mound_1.png");
 }
 
-#penguin1:hover, #penguin2:hover, #penguin3:hover, #penguin4:hover, #penguin5:hover, #penguin6:hover, #penguin7:hover, #penguin8:hover, #penguin9:hover #yeti:hover {
+#penguin1:hover, #penguin2:hover, #penguin3:hover, #penguin4:hover, #penguin5:hover, #penguin6:hover, #penguin7:hover, #penguin8:hover, #penguin9:hover, #yeti:hover {
 	background-image: url("penguin_pngs/mound_1_hover.png");
 	cursor: pointer;
 }

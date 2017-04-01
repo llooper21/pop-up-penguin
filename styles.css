@@ -14,51 +14,55 @@ body {
 	background-image: url("penguin_pngs/penguin_title.png");
 }
 
-.penguin1, .penguin2, .penguin3, .penguin4, .penguin5, .penguin6, .penguin7, .penguin8, .yeti {
+#penguin1, #penguin2, #penguin3, #penguin4, #penguin5, #penguin6, #penguin7, #penguin8, #penguin9, #yeti {
 	width: 200px;
 	height: 200px;
 	float: left;
 	background-image: url("penguin_pngs/mound_1.png");
 }
 
-.penguin1:hover, .penguin2:hover, .penguin3:hover, .penguin4:hover, .penguin5:hover, .penguin6:hover, .penguin7:hover, .penguin8:hover, .yeti:hover {
+#penguin1:hover, #penguin2:hover, #penguin3:hover, #penguin4:hover, #penguin5:hover, #penguin6:hover, #penguin7:hover, #penguin8:hover, #penguin9:hover #yeti:hover {
 	background-image: url("penguin_pngs/mound_1_hover.png");
 	cursor: pointer;
 }
 
-.penguin1:active {
+#penguin1:active {
     background-image:url("penguin_pngs/penguin_1.png");
 }
 
-.penguin2:active {
+#penguin2:active {
     background-image:url("penguin_pngs/penguin_2.png");
 }
 
-.penguin3:active {
+#penguin3:active {
     background-image:url("penguin_pngs/penguin_3.png");
 }
 
-.penguin4:active {
+#penguin4:active {
     background-image:url("penguin_pngs/penguin_4.png");
 }
 
-.penguin5:active {
+#penguin5:active {
     background-image:url("penguin_pngs/penguin_5.png");
 }
 
-.penguin6:active {
+#penguin6:active {
     background-image:url("penguin_pngs/penguin_6.png");
 }
 
-.penguin7:active {
+#penguin7:active {
     background-image:url("penguin_pngs/penguin_7.png");
 }
 
-.penguin8:active {
+#penguin8:active {
     background-image:url("penguin_pngs/penguin_8.png");
 }
 
-.yeti:active {
+#penguin9:active {
+    background-image:url("penguin_pngs/penguin_3.png");
+}
+
+#yeti:active {
 	background-image: url("penguin_pngs/yeti.png");
 }
 #title:hover {
